@@ -1,1 +1,7 @@
-
+Noise Type,Filter,MSE,PSNR,SSIM
+Gaussian Noise,Gaussian Filter,82.54,29.03,0.7102
+Gaussian Noise,Mean Filter,91.8,28.65,0.7505
+Gaussian Noise,Median Filter,98.08,28.34,0.6844
+Salt-and-Pepper Noise,Gaussian Filter,136.12,26.83,0.6135
+Salt-and-Pepper Noise,Mean Filter,124.92,27.24,0.6635
+Salt-and-Pepper Noise,Median Filter,57.55,30.88,0.8937
